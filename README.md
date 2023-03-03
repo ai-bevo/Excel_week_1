@@ -1,2 +1,2 @@
-# Excel_week_1
+# excel-challenge
 Modules for week 1
